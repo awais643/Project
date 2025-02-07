@@ -1,0 +1,9 @@
+Survey Link
+https://docs.google.com/forms/d/e/1FAIpQLSd0m-75DbWjXXaZVelYBqfS1_pGuI0P_-3aBfT_x0iR_Yfu1A/viewform?usp=sharing
+
+ZED2 camera documentation for stereo image capture:
+https://www.stereolabs.com/docs
+
+Flickr1024 dataset
+https://github.com/YingqianWang/Flickr1024?tab=readme-ov-file
+
